@@ -1,3 +1,5 @@
+// This program reads a sequence of letters from the user and checks if the entered string is a palindrome or not.
+
 #include <iostream>
 using namespace std;
 
