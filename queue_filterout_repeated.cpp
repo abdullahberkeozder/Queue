@@ -1,3 +1,5 @@
+//The program filter out repeated characters and display the final queue on screen
+
 #include <iostream>
 using namespace std;
 
